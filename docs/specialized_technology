@@ -1,0 +1,30 @@
+PART C: SPEACIALIZED TECHNOLOGY 
+
+C1. Concepts of Decision Support System (DSS)
+
+A Decision Support System (DSS) is a computer based system that helps users to make decisions by collecting, processing and analyzing important information. 
+It supports the decision making process by evaluate different alternatives and provide useful information to help users select a suitable option.
+
+According to Kovari (2024), Ai based DSS can analyze large amounts of information and provide recommendations to support the decision making. 
+However, the accuracy, transparency and liability of recommendations are important to maintain user trust.
+
+In purposed of MyRapid KL Intelligent Decision Support System (DSS) is to help public transportation users make a better travel decision. 
+For example, when train service is disrupted, the system can discover available transportation information and generates alternative route recommendations.
+Users then can compare before choosing their preference route
+
+
+KEY CONCEPTS OF DECISION SUPPORT SYSTEM (DSS)
+
+1.	Data Driven Decision Making:
+Data driven decision making refers to use of relevant information to support a decision making process. 
+DSS will collect and study available data to provide useful information for the users. In the proposed for MyRapid KL Pulse system,
+information of transportation such as train service disruption, alternative routes, estimated travel time and crowd level is used to support route recommendations.
+
+2.	Interactive Decision Supports:
+Interactive decision support allow users to communicate with the system by interring information and view the results or recommendation will provide. 
+In the proposed for this system, users can enter their starting location and their destination through a search bar. The system then will display relevant 
+route information and alternative recommendation routes.
+
+3.	Human Decision Making:
+DSS is designed to support human decision by providing useful information and recommendations. However, users can still make their final decision based on 
+their needs and preference. In this system, users can see the recommended routes and choose whether to accept or decline the suggestion route. 
