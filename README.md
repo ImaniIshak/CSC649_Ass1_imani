@@ -10,6 +10,11 @@ when the train and buses are disrupted, transportation users may find it difficu
 - [System Requirements](docs/requirements.md)
 - [User Stories](docs/requirements.md)
 
+## Project Section
+- Part A: [Problem Statement](docs/problem-formulation.md) <br>
+- Part B: [Requirements](docs/requirements.md) <br>
+- Part C: [Specialized Technologies](docs/specialized_technologies.md) <br>
+
 ## Status 
 
 ## Author
