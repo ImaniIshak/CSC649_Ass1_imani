@@ -1,10 +1,7 @@
 ## PART A: PROBLEM FORMULATION
 
 ## A1. Problem statement
-Public transportation users often struggle to find the best route to reach their destinations. 
-When traffic problems or service disruptions happen, they must search for other alternative routes manually, which takes time and causes inconvenience. 
-Additionally, LRT and MRT users may arrive at stations without knowing the current crowding levels leading to unexpected delays and overcrowded platforms. 
-Therefore, a system that provides real time crowd updates and alternative route suggestions is needed to help users plan their journeys more efficiently.
+Finding the best route on public transport is not always easy. When there is heavy traffic or a service breaks down, passengers have to look up other routes on their own, which wastes time and adds stress to the trip. LRT and MRT riders face a similar problem. They often reach the station without knowing how crowded it is, only to find packed platforms and longer waits than they expected. A system that shows real-time crowd levels and suggests alternative routes would help riders plan ahead and reach their destinations with less hassle.
 
 ## A2. User
 
@@ -15,20 +12,13 @@ Stakeholders - Rapid KL, public transport operators, feeder bus operators.
 
 ## IN SCOPE
 
-This project covers development of an automated Decision Support System (DSS) that automatically detects trains service disruptions lasting more than 
-15 minutes and suggests other alternative routes that use LRT, MRT, Monorails and Rapid KL feeder buses. The system also includes a Smart Decision Support 
-that displays disruptions alerts and automatically suggest other alternative routes and compares the estimated travel time (ETA) between the original and alternative routes.
+This project covers the development of a Decision Support System (DSS) that detects train service disruptions lasting more than 10 minutes and recommends alternative routes using the LRT, MRT, Monorail, and Rapid KL feeder buses. The system also includes a Smart Decision Support feature that shows disruption alerts, suggests alternative routes, and compares the estimated travel time of the original route with each alternative.
 
-In addition, the system covers the LRT, MRT, Monorail and Rapid KL feeder bus networks across the Klang Valley. A transit Navigation and Search Bar 
-allows users to search for routes by entering their origin and destination with relevant station suggestions. The system also will display a real time 
-crowding alerts for train platforms and bus stops using three levels which is Low, Moderate and Heavy.
+The system covers the LRT, MRT, Monorail, and Rapid KL feeder bus networks across the Klang Valley. Through the Transit Navigation and Search Bar, users enter their starting point and destination, and the system suggests matching stations as they type. It also displays real-time crowding alerts for train platforms and bus stops, rated as Low, Moderate, or Heavy.
+
 
 ## OUT OF SCOPE
 
-The project system does not include direct integration with Rapid KL actual operational database and live transportation systems. 
-It also does not involve in installing physical GPS tracking devices on RapidKL trains and buses. In addition, the system does not 
-support online ticket purchasing, payment processing or fare transactions. The system focusses only on providing travel information, 
-serving disruption alerts and an alternative recommendation for new route. Therefore, it does not control train operations, manage train 
-schedules or operate bus services. Furthermore, the proposed system will not be officially implemented into the existing MyRapid KL Pluse application
+The system is not directly connected to Rapid KL’s operational database or live transport systems, and it does not involve installing GPS tracking devices on Rapid KL trains or buses. It also does not handle online ticket purchases, payments, or fare transactions. Its purpose is limited to giving travel information, sending disruption alerts, and recommending alternative routes. It has no control over train operations, train schedules, or bus services. The system will also not be officially added to the existing MyRapid PULSE app.
 
 
