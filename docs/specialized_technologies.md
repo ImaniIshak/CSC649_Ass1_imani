@@ -8,8 +8,8 @@ According to Kovari (2024), Ai based DSS can analyze large amounts of informatio
 
 In the purposed of MyRapid PLUSE Decision Support System (DSS) aims to help public transport users make a better travel decisions. For example, when train service is disrupted, the system can gather the available transport information and generate alternative route recommendations. Users then can compare the options before choosing the route they prefer.
 
-![Flowchart of the MyRapid PLUSE DSS](System_flowchart.drawio.png)<br>
-Diagram 1: Flowchart of the MyRapid PLUSE DSS
+![Flowchart](../System_flowchart.drawio.png) <br>
+*Diagram 1: Flowchart of the MyRapid PLUSE DSS*
 
 **Key Concepts of Decision Support System (DSS)**
 
@@ -88,7 +88,7 @@ The purposed MyRapid PLUSE DSS tackels the difficulty public transport users fac
 
 **4.	Decision Support System (DSS) VS Deep Learning**<br>
 
-   ![table](System_flowchart.drawio.png)<br>
+  ![DSS vs Deep Learning](DSS_VS_DeepLearning.png)
 
    I would choose decision Support System (DSS) as approach for this project because it is easier to understand and more suitable for the system. It does not need a large historical dataset for model training and lets passengers compare route suggestions using clear information such as ETA and crowd levels. 
 
