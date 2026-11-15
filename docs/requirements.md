@@ -19,20 +19,20 @@
 
 1. As a daily commuter user, I want to search for my starting point and destination using a search bar, so that I can plan my journey quickly without need to manually search through maps. (FR4)
 
-**Acceptance Criteria:**
-•	The system should let users to type their current location and destination through the search box.
-•	The system shall show matching location suggestions when users enter their starting point and destination
+**Acceptance Criteria:**<br>
+•	The system should let users to type their current location and destination through the search box.<br>
+•	The system shall show matching location suggestions when users enter their starting point and destination<br>
 
-2.	As a public transportation user, I want to get alternative route recommendations when a train is disrupted, so that I can continue my journey without have to figure out another route by myself. (FR2)
+2.	As a public transportation user, I want to get alternative route recommendations when a train is disrupted, so that I can continue my journey without have to figure out another route by myself. (FR2)<br>
 
-**Acceptance Criteria:** 
-•	The system shall generate alternative route recommendations when a disruption is detected on train service.
+**Acceptance Criteria:** <br>
+•	The system shall generate alternative route recommendations when a disruption is detected on train service.<br>
 •	The suggestion routes should include any available alternative rail line and Rapid KL feeder buses.
 
-3.	As a public transport user, I want to check how crowded station platforms and feeder bus stops are, so that I can avoid packed stations and pick a less crowded option. (FR3)
+3.	As a public transport user, I want to check how crowded station platforms and feeder bus stops are, so that I can avoid packed stations and pick a less crowded option. (FR3)<br>
 
-**Acceptance Criteria:** 
-•	The system show crowd  density information for the station platform and feeder bus stops.
+**Acceptance Criteria:** <br>
+•	The system show crowd  density information for the station platform and feeder bus stops.<br>
 •	The system shall sort crowd level into three categories which is Low, Moderate and Heavy.
 
 
